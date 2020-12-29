@@ -1,5 +1,7 @@
 Funny Eyes
 =========
+Copy of the original code: https://github.com/thiagodnf/funny-eyes
+Thanks for sharing
 
 How to use
 ----------
